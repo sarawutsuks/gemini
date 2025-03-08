@@ -1,4 +1,4 @@
 ## git test
 
-- git branch
+- git branch / git checkout
 - git merge
