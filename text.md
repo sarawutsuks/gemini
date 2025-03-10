@@ -13,3 +13,4 @@
 - git checkout v1.0         // load file of tag v1.0
 - git push origin v1.0      // push tag v1.0 to origin server
 - git push -d origin v1.0   // delete tag v1.0 in origin server
+- git fetch  // download all tag, branch from repositoryg
