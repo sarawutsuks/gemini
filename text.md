@@ -14,3 +14,8 @@
 - git push origin v1.0      // push tag v1.0 to origin server
 - git push -d origin v1.0   // delete tag v1.0 in origin server
 - git fetch  // download all tag, branch from repositoryg
+
+## git ignore
+- create .gitignore
+- add file ที่ไม่ต้องการ track ส่วนใหญ่ใช้นามสกุลไฟล์ =>ex .log .txt .jpg
+- delete file in .gitignore => git clean -dfx
